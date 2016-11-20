@@ -1,0 +1,8 @@
+#block Google Analytics + ads
+127.0.0.1   ssl.google-analytics.com
+127.0.0.1   www-google-analytics.l.google.com
+127.0.0.1   stats.g.doubleclick.net
+127.0.0.1   clients.l.google.com
+127.0.0.1   pagead.l.doubleclick.net
+127.0.0.1   www-googletagmanager.l.google.com
+127.0.0.1   googleadapis.l.google.com
